@@ -1,0 +1,5 @@
+pandas
+dash
+dash_mantine_components
+plotly
+influxdb_client
